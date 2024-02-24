@@ -1,3 +1,4 @@
 # OpenCV_
 OpenCV的学习笔记
-在SSC学长的笔记的基础上进行二次编写
+
+鄙人在SSC学长的笔记的基础上对于OpenCV_Python部分进行二次编写
